@@ -1,4 +1,4 @@
-![Logo](https://github.com/MatteoMel1985/Relational-Dataset-Images/blob/main/Demo%20Logo/Artifex%20Datorum%20Classic.png?raw=true)
+![Logo](./Generated%20Files/After.png)
 
 <div align="center">
   <h1>How I Made My Logo: ASCII Image Converter Python ETL</h1>
@@ -1542,7 +1542,7 @@ Returns a dictionary with:
 ### ***Example Usage and Chosen Settings***  
 
 ```Python
-IMAGE_PATH = "https://github.com/MatteoMel1985/Relational-Dataset-Images/blob/main/Demo%20Logo/With-Snake-Shading.jpg?raw=true"
+IMAGE_PATH = "https://github.com/Artifex-Datorum/ASCII-Image-Converter_How-I-made-Artifex-Datorum-Logo/blob/main/Generated%20Files/Before.png?raw=true"
 
 convert_image_to_ascii(
     IMAGE_PATH,
